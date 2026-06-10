@@ -13,6 +13,8 @@ psi = np.exp(-0.1*(x+3)**2)
 # weaken inside barrier
 psi[(x > -1) & (x < 1)] *= 0.3
 
+ # change psi[ (x > -3) & (x < 3)] *= 0.3
+
 # small transmitted wave
 psi[x > 1] *= 0.2
 

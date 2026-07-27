@@ -1,0 +1,21 @@
+# ======================================
+# Day 22 - Tight Binding Band Structure
+# ======================================
+
+# Step 1:
+# Import required libraries
+
+# Step 2:
+# Define parameters (t, E0, a)
+
+# Step 3:
+# Create k values
+
+# Step 4:
+# Calculate E(k)
+
+# Step 5:
+# Plot Band Structure
+
+# Step 6:
+# Save the figure
